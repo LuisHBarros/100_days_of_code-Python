@@ -9,4 +9,4 @@ For this bootcamp I will be using Fedora as my operating system
 
 Here is my neofetch:
 
-![Neofetch](https://user-images.githubusercontent.com/97200106/235168747-629b9d66-8f3e-4ee1-86a7-833a12439fd3.png)
+
