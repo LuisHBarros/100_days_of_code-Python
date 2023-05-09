@@ -6,8 +6,8 @@ Exercise link:
 
 # Write your code below this line 👇
 def paint_calc(height, width, cover) -> float:
-    paint: float = round((height * width) / cover, 2)
-    print(f"You'll nedd {paint:.1f} cans of paint.")
+    paint = round((height * width) / cover, 0)
+    print(f"You'll need {paint:.0f} cans of paint.")
     return paint
 
 
